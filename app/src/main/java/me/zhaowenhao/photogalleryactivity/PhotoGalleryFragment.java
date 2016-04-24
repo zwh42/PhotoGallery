@@ -85,7 +85,7 @@ public class PhotoGalleryFragment extends Fragment {
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater){
         super.onCreateOptionsMenu(menu,inflater);
         inflater.inflate(R.menu.fragment_photo_gallery, menu);
-    }
+    } 
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item){
